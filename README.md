@@ -1,4 +1,5 @@
 # Security-EternalBlue-Bluekeep
+
 Relatório de Segurança da Informação em Ambiente Interno com Kali Linux
 Este repositório contém o relatório completo do projeto acadêmico desenvolvido no curso de Sistemas de Informação do Centro Universitário UNIFACISA, cujo objetivo principal foi realizar uma análise detalhada da segurança em ambiente interno utilizando ferramentas avançadas de testes de penetração.
 
