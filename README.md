@@ -1,3 +1,6 @@
+![20250603_2029_Segurança da Informação_simple_compose_01jww209bef4ar7bsaz2fw2c6b](https://github.com/user-attachments/assets/7e3e2f6a-f09f-4e68-95d6-6bc1df9ad107)
+
+
 # Security-EternalBlue-Bluekeep
 
 # Relatório de Segurança da Informação em Ambiente Interno com Kali Linux
